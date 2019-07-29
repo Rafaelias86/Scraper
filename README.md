@@ -26,7 +26,7 @@ You will need to npm install the following node modules:
 3. mongoose
 4. body-parser
 5. cheerio
-6. request
+6. axios
 
 ## Screenshots
 ### *Home Page
